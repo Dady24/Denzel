@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+LAZACK+MD+v3+MADE+BY;LAZACK28;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+DENZEL+BOT+v1+MADE+BY;MICK🇹🇿;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Lazack28/Lazack-advanced" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/Dady24/Denzel/" />
   </a>
 
 </p>
@@ -11,12 +11,12 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/ICNOZzsDH9E81j3RlqLx4w">
-    <img alt=Support height="250" src="https://telegra.ph/file/1dc10a39146c80069a439.jpg"> 
+    <img alt=Support height="250" src="https://telegra.ph/file/d257d118b743b15b83c30.jpg"> 
     </p>
 
-****[FORK THIS REPO](https://github.com/Lazack28/Lazack-advanced/fork)****
+****[FORK THIS REPO](https://github.com/Dady24/Denzel//fork)****
 
-***[GROUP](https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9)***
+***[GROUP](https://chat.whatsapp.com/CAKGysbedAWCrGmrm5bOiz)***
 
 
 ------------------------------------------
@@ -55,7 +55,7 @@
 
 ****MAIN DEV EDITOR****
 
- [![Lazack28](https://github.com/Lazack28.png?size=100)](https://github.com/Lazack28)
+ [![Lazack28](https://github.com/Mickeymozy.png?size=100)](https://github.com/Mickeymozy)
 
 ----------------------
 
@@ -63,6 +63,6 @@
 </h2>
    
  
-- *Lazack Bots are made by a student if you see any errors please submit a pull request`*
+- *Denzel Bots are made by a student if you see any errors please submit a pull request`*
 - *I may help you in bot deployment and bot code editing if i have time to do so*
-- *Use Lazack bots are always safe to youre heroku and give us credits.*
+- *Use Denzel bots are always safe to youre heroku and give us credits.*
