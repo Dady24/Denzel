@@ -1,6 +1,6 @@
-//YouTube: @Lazaromtaju
-//GitHub: @Lazack_28
-//subscribe to my youtube channel: https://youtube.com/@lazaromtaju?si=u8DlsnWfkqAPondy
+//YouTube: @Mickeymozy
+//GitHub: @Dady24
+//subscribe to my youtube channel: https://www.youtube.com/@MickdadyHamzaMickey_mozy
 
 process.on('unhandledRejection', console.error)
 process.on('uncaughtException', console.error)
@@ -264,7 +264,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
                if (!('autodownload' in setting)) setting.autodownload = false 
                if (!('autobio' in setting)) setting.autobio = false 
                if (!('autoread' in setting)) setting.autoread = false
-               if (!('autorecordtype' in setting)) setting.autorecordtype = false
+               if (!('autorecordtype' in setting)) setting.autorecordtype = true
                if (!('autorecord' in setting)) setting.autorecord = false
                if (!('autotype' in setting)) setting.autotype = false
                if (!('autoblocknum' in setting)) setting.autoblocknum = false
@@ -287,7 +287,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
                onlyindo: false,
                onlygrub: false,
                onlypc: false,
-               autorecordtype: false,
+               autorecordtype: true,
                autorecord: false,
                autotype: false,               
             }
@@ -915,7 +915,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: botname,
 body: ownername,
-thumbnailUrl: 'https://telegra.ph/file/3fa5e5c3dfb83f6ed07ed.jpg',
+thumbnailUrl: 'https://telegra.ph/file/d257d118b743b15b83c30.jpg',
 sourceUrl: websitex
 },
 },
@@ -1729,7 +1729,7 @@ break
 			case 'repo': case 'repository': {
   try {
     const [, username, repoName] = botscript.match(/github\.com\/([^/]+)\/([^/]+)/)
-    const response = await axios.get(`https://api.github.com/repos/Lazack28/Lazack-advanced`)
+    const response = await axios.get(`https://api.github.com/repo/Dady24/Denzel`)
     if (response.status === 200) {
       const repoData = response.data
       const formattedInfo = `
@@ -1758,7 +1758,7 @@ break
     }
   } catch (error) {
     console.error(error)
-    await replygcxeon(`Repository currently not available `)
+    await replygcxeon(`sorry repo is coming soon`)
   }
 }
 break
@@ -8909,7 +8909,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
     break
     case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
 let me = m.sender
-let teks = `*「  ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nHi @${me.split('@')[0]} 👋\nDonate through Tanzania Mpesa accunt🍜 👇 MPESA ACCOUNT NUMBER: 0758868502-Lazaro Mtaju`
+let teks = `*「  ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nHi @${me.split('@')[0]} 👋\nDonate through Tanzania Halotel account 🍜 👇 HALOPESA ACCOUNT NUMBER: 0615944741-MICKDADI HAMZA`
 sendXeonBotIncMessage(m.chat, { 
 text: teks,
 mentions:[sender],
